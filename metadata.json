@@ -1,0 +1,6 @@
+{
+  "name": "Disease Canceller AI",
+  "description": "Understand Your Health. Build a Healthier Tomorrow. Comprehensive personal health monitoring, medical report explainer, nutrition & exercise tracker, and AI health support companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
